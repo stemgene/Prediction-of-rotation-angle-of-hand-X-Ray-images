@@ -23,4 +23,4 @@ We write a mydata class. In this class we load data and labels, do train-time au
 
 4. Result
 
-We trained for 100 epoches, and the final training loss is 7.94871353837351, the final validation loss is 12.91610410831009. Then we calculate the test loss, then get the result 9.745383987426758. So we think our parameter is a good fit for our code. 
+We trained for 100 epoches, and the final training loss is 7.9487, the final validation loss is 12.9161. Then we calculate the test loss, then get the result 9.7454. So we think our parameter is a good fit for our code. 
