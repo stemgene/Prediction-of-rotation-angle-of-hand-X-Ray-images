@@ -15,7 +15,7 @@ The dataset consisting of hand PA x-rays, it has already been preprocessed such 
 * validation Set: 208 images
 * Test set: 200 images
 
-There are also 3 files called train_labels.csv, valid_labels.csv, and test_labels.csv. These files list the image name in the 1st column and the label (rotation in degrees corresponding to that image) in the second column. I only submit a subset with smaller size. We used these to straighten out any coding errors, as using the full training set will make iteration very slow. 
+There are also 3 files called train_labels.csv, valid_labels.csv, and test_labels.csv. These files list the image name in the 1st column and the label (rotation in degrees corresponding to that image) in the second column. I only submit a subset with smaller size as a sample. We used these to straighten out any coding errors, as using the full training set will make iteration very slow. 
 
 3. Method:
 
